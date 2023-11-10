@@ -1,6 +1,3 @@
-Sure, here's the updated usage instructions for your README.md:
-
-```markdown
 # CSV Format Converter (US to DE)
 
 ## Description
